@@ -21,7 +21,7 @@ public struct DefaultTooltipConfig: TooltipConfig {
     public var borderRadiusStyle: RoundedCornerStyle = .circular
     public var borderWidth: CGFloat = 2
     public var borderColor: Color = Color.primary
-    public var backgroundColor: Color = Color.clear
+    public var backgroundColor: Color = Color.white
     public var shadowColor: Color = .clear
     public var shadowRadius: CGFloat = 0
     public var shadowOffset: CGPoint = .zero
